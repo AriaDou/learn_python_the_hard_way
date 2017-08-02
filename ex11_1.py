@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# raw_input的作用是把输入当作字符串处理
 print "How old are you?",
 age = raw_input()
 print "How tall are you?",
